@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👯 I'm an aspiring web developer. 
-- 🔭 I’m currently working on FrontEnd Mentor Challenges and FreeCodeCamp Challenges.
+- 🔭 I’m currently working on FrontEnd Mentor and FreeCodeCamp Challenges.
 - ⚡ Fun fact: I will turn 19 soon.
 
 
