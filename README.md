@@ -6,7 +6,13 @@
 * 
 
  **Languages and Frameworks:**
- 
+ <p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png"  width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" /></code>&nbsp;
+   </p>
+
  
  
  **Connect with me:**
