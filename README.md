@@ -1,6 +1,7 @@
-### Hi there 👋
-- 👯 I'm an aspiring web developer. 
-
+## Hello there 👋
+  ### I'm Luis a Front-End Web Developer(kinda), learning how to build websites for over a year now.   
+<img src="http://tumboy.tumblr.com/post/10052361836" width="100%" height="100px" alt="nyancat" />  
+  
 
 
 <!--
