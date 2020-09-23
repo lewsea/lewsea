@@ -2,8 +2,8 @@
   ### I'm Luis a Front-End Web Developer(kinda), learning how to build websites for over a year now.   
 <img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  
 
-### 🌱  Things that I'm currently working on: 
-* 
+<!-- ### 🌱  Things that I'm currently working on: 
+* -->
 
  **Languages and Frameworks:**
  <p align="left">
@@ -13,11 +13,16 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" /></code>&nbsp;
+  
  </p>
 
  
  
- **Connect with me:**
+ **Connect with me:** &nbsp;
+ 
+ <a href="https://https://www.linkedin.com/in/luis-gudmalin-8b0349195/"><img src="https://img.icons8.com/android/linkedin.png" height="25px" width="25px"/></a>&nbsp;
+ <a href="https://twitter.com/leewseea"><img src="https://img.icons8.com/android/twitter.png" height="25px" width="25px"/></a>&nbsp;
 
 <!--
 **lewsea/lewsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
