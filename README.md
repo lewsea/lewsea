@@ -1,4 +1,4 @@
-## Kamusta | Hello 👋
+## Kumusta | Hello 👋
   ### I'm Luis an aspiring Front-End Web Developer, learning how to build websites for over a year now.
   🌱  Things that I'm currently working on: 
         <br>
