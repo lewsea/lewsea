@@ -13,9 +13,12 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png"  width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/55370617/112429308-75170680-8d77-11eb-8772-2e0f5a9b9fbb.png" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/55370617/112429312-75af9d00-8d77-11eb-816c-ca2ceca12949.png" width="40" height="40" /></code>&nbsp;
+  
   
  </p>
 
