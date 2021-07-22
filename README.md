@@ -3,6 +3,7 @@
   🌱  Things that I'm currently working on: 
         <br>
       - I'm currently doing some WordPress Theme Development.
+      <br>
       - I also do some Shopify Development.
 <img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  
 
