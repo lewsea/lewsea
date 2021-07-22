@@ -2,7 +2,8 @@
   ### I'm Luis an aspiring Front-End Web Developer, learning how to build websites for over a year now.
   🌱  Things that I'm currently working on: 
         <br>
-      - I'm currently doing some WordPress Theme Development.  
+      - I'm currently doing some WordPress Theme Development.
+      - I also do some Shopify Development.
 <img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  
 
 
