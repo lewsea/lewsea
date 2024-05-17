@@ -30,7 +30,6 @@
  **Connect with me:** &nbsp;
  
  <a href="https://https://www.linkedin.com/in/luis-gudmalin-8b0349195/"><img src="https://img.icons8.com/android/linkedin.png" height="25px" width="25px"/></a>&nbsp;
- <a href="https://twitter.com/leewseea"><img src="https://img.icons8.com/android/twitter.png" height="25px" width="25px"/></a>&nbsp;
 
 <!--
 **lewsea/lewsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
