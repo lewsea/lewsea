@@ -1,10 +1,6 @@
 ## Kumusta | Hello | 안녕하세요 👋
-  ### I'm Luis an aspiring Front-End Web Developer, learning how to build websites for over a year now.
-  🌱  Things that I'm currently working on: 
-        <br>
-      - I'm currently doing some WordPress Theme Development.
-      <br>
-      - I also do some Shopify Development.
+  ### I'm so cooked right now 
+  
 <img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  
 
 
